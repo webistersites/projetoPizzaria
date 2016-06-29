@@ -36,7 +36,7 @@
     <div class="container">
 
       <form class="form-signin" method="post" action="valida.php">
-        <h2 class="form-signin-heading">Please sign in</h2>
+        <h2 class="form-signin-heading">Fazer Login</h2>
         <label for="usuario" class="sr-only">Email address</label>
         <input type="text" id="usuario" name="usuario" class="form-control" placeholder="Email address" required autofocus>
         <label for="senha" class="sr-only">Password</label>
